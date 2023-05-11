@@ -265,17 +265,17 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Adeeyo Michael</summary>
     <ul>
-    <li><a href="https://www.github.com/ademic2022">Github</a></li>
-    <li><a href="https://www.twitter.com/Ademic_codes">Twitter</a></li>
-    <li><a href="mailto:adeeyomichael77@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/ademic2022" target='_blank'>Github</a></li>
+    <li><a href="https://www.twitter.com/Ademic_code" target='_blank'>Twitter</a></li>
+    <li><a href="mailto:adeeyomichael77@gmail.com" target='_blank'>e-mail</a></li>
     </ul>
 </details>
 <details>
     <summary>Gideon Mensah</summary>
     <ul>
-    <li><a href="https://www.github.com/Gideon5">Github</a></li>
-    <li><a href="https://www.twitter.com/">Twitter</a></li>
-    <li><a href="mailto:@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Gideon5" target='_blank'>Github</a></li>
+    <li><a href="https://www.twitter.com/" target='_blank'>Twitter</a></li>
+    <li><a href="mailto:@gmail.com" target='_blank'>e-mail</a></li>
     </ul>
 </details>
 
