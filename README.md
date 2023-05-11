@@ -228,9 +228,10 @@ show <class> <id>
 ```bash
 (hbnb) create BaseModel
 e45ddda9-eb80-4858-99a9-226d4f08a629
-(hbnb) all BaseModel
-["[BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) [BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) {'id': '4c8f7ebc-257f-4ed1-b26b-e7aace459897', 'created_at': datetime.datetime(2023, 11, 13, 22, 19, 19, 447155), 'updated_at': datetime.datetime(2023, 11, 13, 22, 19, 19, 447257), 'name': 'My First Model', 'my_number': 89}"]
-["[BaseMode
+((hbnb) all BaseModel
+["[BaseModel] (cfc24427-cf66-472f-9450-47e4e2c06a50) {'id': 'cfc24427-cf66-472f-9450-47e4e2c06a50', 'created_at': datetime.datetime(2023, 5, 10, 19, 54, 0, 354020), 'updated_at': datetime.datetime(2023, 5, 10, 19, 54, 0, 354048)}"]
+(hbnb) all User
+["[User] (de11f528-abd7-4878-84fc-434e808769aa) {'id': 'de11f528-abd7-4878-84fc-434e808769aa', 'created_at': datetime.datetime(2023, 5, 10, 19, 57, 8, 441958), 'updated_at': datetime.datetime(2023, 5, 10, 19, 57, 8, 441974)}"]
 ```
 
 * count
